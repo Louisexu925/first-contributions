@@ -33,7 +33,7 @@ git clone "刚才复制的 url 链接"
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-譬如：
+例如：
 ```
 git clone https://github.com/你的Github用户名/first-contributions.git
 ```
@@ -42,7 +42,7 @@ git clone https://github.com/你的Github用户名/first-contributions.git
 
 ## 新建一个分支
 
-下面的命令能在命令行窗口中，把目录切换到 first-contributions
+下面的命令能在命令行窗口中，把目录切换到 “first-contributions”文件夹
 
 ```
 cd first-contributions
